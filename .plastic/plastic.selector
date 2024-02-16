@@ -1,0 +1,4 @@
+repository "PINP@RuinedGames@cloud"
+  path "/"
+    br "/main"
+    co "/main"
